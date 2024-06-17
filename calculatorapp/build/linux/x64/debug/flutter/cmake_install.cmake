@@ -1,8 +1,8 @@
-# Install script for directory: /home/zerokelvin/codework/flutterApps/learnapp/linux/flutter
+# Install script for directory: /home/zerokelvin/codework/flutterApps/learnapp/calculatorapp/linux/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/zerokelvin/codework/flutterApps/learnapp/calculatorapp/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/bin/cmake --regenerate-during-build -S/home/zerokelvin/codework/flutterApps/learnapp/linux -B/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug
+  command = /usr/bin/cmake --regenerate-during-build -S/home/zerokelvin/codework/flutterApps/learnapp/calculatorapp/linux -B/home/zerokelvin/codework/flutterApps/learnapp/calculatorapp/build/linux/x64/debug
   description = Re-running CMake...
   generator = 1
 
