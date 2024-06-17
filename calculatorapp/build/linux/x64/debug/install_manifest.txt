@@ -1,0 +1,12 @@
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/learnapp
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/zerokelvin/codework/flutterApps/learnapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
